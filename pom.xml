@@ -60,18 +60,6 @@
         </plugins>
     </build>
 
-   <distributionManagement>
-    <repository>
-        <id>github-repo</id>
-        <url>https://maven.pkg.github.com/udayasri-123/webproject</url>
-    </repository>
-    <snapshotRepository>
-        <id>github-snapshot-repo</id>
-        <url>https://maven.pkg.github.com/udayasri-123/webproject</url>
-    </snapshotRepository>
-</distributionManagement>
-
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>21</maven.compiler.source>
