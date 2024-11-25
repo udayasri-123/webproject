@@ -70,11 +70,7 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
     <name>mavenweb Maven Webapp</name>
-<<<<<<< HEAD
+
    <url>https://github.com/udayasri-123/webproject</url>
 
 </project> 
-=======
-    <url>http://
-           
->>>>>>> 9961cd546ea7ab4315a5c50a9b0abbd2bff2899a
